@@ -8,9 +8,9 @@ ws中转模式填写：
 ————————————————————————————————" && echo
 read -p "请选择对接模式(1,2)：" xuan
 #网站地址
-domain22='sspanel_url: "http://mnssr.cc"'
+domain22='sspanel_url: "https://st.ninihao.me"'
 #mukey
-mukey='key: "66hg7hdh*i3AFUQ313135ssrkey"'
+mukey='key: "xiaoyang"'
 #面板节点id
 read -p "  1.面板里添加完节点后生成的自增ID:" sid
 rid='node_id: '$sid
